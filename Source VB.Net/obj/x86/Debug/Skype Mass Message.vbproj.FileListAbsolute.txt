@@ -1,0 +1,26 @@
+C:\Documents and Settings\mick\Local Settings\Application Data\Temporary Projects\Skype Mass Message\bin\Debug\Skype Mass Message.exe
+C:\Documents and Settings\mick\Local Settings\Application Data\Temporary Projects\Skype Mass Message\bin\Debug\Skype Mass Message.pdb
+C:\Documents and Settings\mick\Local Settings\Application Data\Temporary Projects\Skype Mass Message\bin\Debug\Skype Mass Message.xml
+C:\Documents and Settings\mick\Local Settings\Application Data\Temporary Projects\Skype Mass Message\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mick\Local Settings\Application Data\Temporary Projects\Skype Mass Message\obj\x86\Debug\Skype_Mass_Message.Form1.resources
+C:\Documents and Settings\mick\Local Settings\Application Data\Temporary Projects\Skype Mass Message\obj\x86\Debug\Skype_Mass_Message.Resources.resources
+C:\Documents and Settings\mick\Local Settings\Application Data\Temporary Projects\Skype Mass Message\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\mick\Local Settings\Application Data\Temporary Projects\Skype Mass Message\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\mick\Local Settings\Application Data\Temporary Projects\Skype Mass Message\obj\x86\Debug\Skype Mass Message.exe
+C:\Documents and Settings\mick\Local Settings\Application Data\Temporary Projects\Skype Mass Message\obj\x86\Debug\Skype Mass Message.xml
+C:\Documents and Settings\mick\Local Settings\Application Data\Temporary Projects\Skype Mass Message\obj\x86\Debug\Skype Mass Message.pdb
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Debug\Skype Mass Message.exe
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Debug\Skype Mass Message.xml
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Debug\Skype Mass Message.pdb
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\bin\Debug\Skype Mass Message.exe
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\bin\Debug\Skype Mass Message.pdb
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\bin\Debug\Skype Mass Message.xml
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Debug\Skype_Mass_Message.Form1.resources
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Debug\Skype_Mass_Message.Resources.resources
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\bin\Debug\Skype Mass Message.exe.config
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog

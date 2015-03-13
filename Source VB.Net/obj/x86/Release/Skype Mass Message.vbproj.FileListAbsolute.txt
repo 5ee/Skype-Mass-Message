@@ -1,0 +1,15 @@
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Release\Skype_Mass_Message.Form1.resources
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\bin\Release\Skype Mass Message.exe
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\bin\Release\Skype Mass Message.pdb
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\bin\Release\Skype Mass Message.xml
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Release\Skype_Mass_Message.Resources.resources
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Release\Skype Mass Message.exe
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Release\Skype Mass Message.xml
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Release\Skype Mass Message.pdb
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\bin\Release\Skype Mass Message.exe.config
+C:\Documents and Settings\mick\mijn documenten\visual studio 2010\Projects\Selling\Skype Mass Message\Skype Mass Message\obj\x86\Release\GenerateResource-ResGen.read.4.tlog
